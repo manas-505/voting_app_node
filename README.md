@@ -10,19 +10,5 @@ A.Voting app functionality
 8. User Can login Only with aadhar card And password
 9. Admin cannot  Vote at all
 
-B.Project Structure-
 
-Voting_App/
-├── models/
-│   ├── user.js
-│   └── candidate.js
-├── routes/
-│   ├── userRoutes.js
-│   └── candidateRoutes.js
-├── db.js
-├── jwt.js
-├── server.js
-├── package.json
-├── .gitignore
-└── planning.txt
 
